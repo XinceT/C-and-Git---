@@ -1,0 +1,3 @@
+/home/mylinux/项目/4.12.1/CMakeFiles/rebuild_cache.dir
+/home/mylinux/项目/4.12.1/CMakeFiles/multisim.dir
+/home/mylinux/项目/4.12.1/CMakeFiles/edit_cache.dir

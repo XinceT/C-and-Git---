@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/multisim.dir/源.c.o  -o multisim  -L/home/mylinux/项目/4.12.1/lib -Wl,-rpath,/home/mylinux/项目/4.12.1/lib -lpthread 
